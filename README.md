@@ -1,4 +1,4 @@
-#ArchitectRiddle
+# ArchitectRiddle
 
 This simple game is about placing gas tanks next to houses,
 following a set of simple rules.
