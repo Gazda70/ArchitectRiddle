@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Łamigłowka Architekta.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+c:\users\gazda\desktop\politechniczne studia\pk\workingrepo\cb60f4b5-gr32-repo\projekt\łamigłowka architekta\łamigłowka architekta\source.c(12): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Łamigłowka Architekta.vcxproj -> C:\Users\gazda\Desktop\Politechniczne studia\PK\WorkingRepo\cb60f4b5-gr32-repo\Projekt\Łamigłowka Architekta\Debug\ŁamigłowkaArchitekta.exe
